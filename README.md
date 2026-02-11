@@ -49,8 +49,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0dHdva3NwbmdnMGgyZnlzdnJuM2I1eXBhZzg4MXp3MW1uZDUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+  <img height="560" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0dHdva3NwbmdnMGgyZnlzdnJuM2I1eXBhZzg4MXp3MW1uZDUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
 </div>
 
 ###
