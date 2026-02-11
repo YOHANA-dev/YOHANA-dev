@@ -1,15 +1,15 @@
 # Hi 👋 I'm Yohana
 
-## 💻 About Me
-- 🎓 Back-End Developer Trainee
-- 🔹 Working with .NET & C#
-- 🔹 Building Web APIs using ASP.NET Core
-- 🔹 Learning Software Architecture & Clean Code
+## 🚀 Backend Developer in Progress
+
+I'm currently learning Back-End Development using .NET technologies.
+Passionate about building clean, structured, and real-world applications.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Currently Learning
 - C#
+- OOP Concepts
 - .NET Core
 - ASP.NET Core MVC
 - Web API
@@ -19,10 +19,17 @@
 
 ---
 
-## 📌 Current Focus
-- Improving problem solving skills
-- Building real-world backend projects
-- Writing clean and maintainable code
+## 🎯 Goals for 2026
+- Build strong backend projects
+- Master clean code principles
+- Understand software architecture
+- Contribute to open-source projects
+
+---
+
+## 📌 Projects
+I am building practice projects to improve my skills.
+More advanced projects coming soon 🚀
 
 ---
 
